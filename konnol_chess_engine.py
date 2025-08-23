@@ -266,7 +266,7 @@ Commands:
   - load <file.pgn|fen>  : load a PGN file (last game) or a FEN string
   - new                  : start a new game
   - help                 : show this help
-  - exit                 : quit
+  - exit                 : eit/quit
 """
 
 class Game:
